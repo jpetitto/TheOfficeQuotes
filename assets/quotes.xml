@@ -777,7 +777,7 @@
         <episode>Christmas Party</episode>
         <airdate>December 6, 2005</airdate>
         <character>Michael Scott</character>
-        <text><![CDATA[<b>Michael Scott:</b> Christmas is awesome. First of all, you got to spend time with people you love. Secondly, you can get drunk and no one can say anything. Third, you give presents. What's better than giving presents? And fourth, getting presents. So four things. Not bad for one day. It's really the greatest day of all time.]]></text>
+        <text><![CDATA[<b>Michael Scott:</b> Christmas is awesome. First of all, you get to spend time with people you love. Secondly, you can get drunk and no one can say anything. Third, you give presents. What's better than giving presents? And fourth, getting presents. So four things. Not bad for one day. It's really the greatest day of all time.]]></text>
     </quote>
     <quote id="107">
         <season>2</season>
@@ -3438,5 +3438,874 @@
         <airdate>September 25, 2008</airdate>
         <character>Dwight Schrute</character>
         <text><![CDATA[<b>Dwight Schrute:</b> This is what I'm going to do. I'm going to randomly select three names and these three people will get liposuction. Um... Stanley, Phyllis, Kevin. And you will be responsible for your own medical bills.]]></text>
+    </quote>
+    <quote id="464">
+        <season>5</season>
+        <episode>Business Ethics</episode>
+        <airdate>October 9, 2008</airdate>
+        <character>Holly Flax</character>
+        <character>Stanley Hudson</character>
+        <text><![CDATA[<b>Holly Flax:</b> Can anyone think of examples of things that are over-the-line time wasters?<br/><b>Stanley Hudson:</b> This meeting.]]></text>
+    </quote>
+    <quote id="465">
+        <season>5</season>
+        <episode>Business Ethics</episode>
+        <airdate>October 9, 2008</airdate>
+        <character>Oscar Martinez</character>
+        <character>Michael Scott</character>
+        <character>Dwight Schrute</character>
+        <character>Jim Halpert</character>
+        <text><![CDATA[<b>Oscar Martinez:</b> Okay. Once in a while, I'll take a long lunch.<br/><b>Michael Scott:</b> A siesta.<br/><b>Dwight Schrute:</b> Time thief. Time thief. Fire him!<br/><b>Jim Halpert:</b> Dwight, you've really never stolen any company time?<br/><b>Dwight Schrute:</b> Never.<br/><b>Michael Scott:</b> You are a thief of joy.]]></text>
+    </quote>
+    <quote id="466">
+        <season>5</season>
+        <episode>Baby Shower</episode>
+        <airdate>October 16, 2008</airdate>
+        <character>Michael Scott</character>
+        <text><![CDATA[<b>Michael Scott:</b> You know what, Phyllis? I think you need to step it up. I think you need to get the lead out. Because, if I'm not mistaken, we gave you your wedding shower here. We all came into this room and gave you a golden shower. Well you know what, where's my golden shower, Phyllis?]]></text>
+    </quote>
+    <quote id="467">
+        <season>5</season>
+        <episode>Baby Shower</episode>
+        <airdate>October 16, 2008</airdate>
+        <character>Michael Scott</character>
+        <text><![CDATA[<b>Michael Scott:</b> If a baby were president, there would be no taxes, there would be no war. There would be no... government, and... things could get terrible. It actually, probably, it would be a better... screenplay idea than a serious suggestion.]]></text>
+    </quote>
+    <quote id="468">
+        <season>5</season>
+        <episode>Baby Shower</episode>
+        <airdate>October 16, 2008</airdate>
+        <character>Michael Scott</character>
+        <character>Kevin Malone</character>
+        <text><![CDATA[<b>Michael Scott:</b> Ready to play some games? Let's do it!<br/><b>Kevin Malone:</b> Michael, the baby's already been born.<br/><b>Michael Scott:</b> Yeah, duh...<br/><b>Kevin Malone:</b> So, we had games planned, but the baby ruins all of them.<br/><b>Michael Scott:</b> <i>[angrily]</i> No, the baby doesn't ruin anything, Kevin. Okay? The baby... multiplies the fun. Let's just... do what you were going to do.<br/><b>Kevin Malone:</b> Okay... who wants to guess when the baby will be born?]]></text>
+    </quote>
+    <quote id="469">
+        <season>5</season>
+        <episode>Baby Shower</episode>
+        <airdate>October 16, 2008</airdate>
+        <character>Stanley Hudson</character>
+        <text><![CDATA[<b>Stanley Hudson:</b> I do not like pregnant women in my workspace. They're always complaining. I have varicose veins, too. I have swollen ankles. I'm constantly hungry. Do you think my nipples don't get sore too? Do you think I don't need to know the fastest way to the hospital?]]></text>
+    </quote>
+    <quote id="470">
+        <season>5</season>
+        <episode>Baby Shower</episode>
+        <airdate>October 16, 2008</airdate>
+        <character>Kelly Kapoor</character>
+        <character>Jan Levinson</character>
+        <character>Creed Bratton</character>
+        <text><![CDATA[<b>Kelly Kapoor:</b> Umm, so you're in the tub with... everything?<br/><b>Jan Levinson:</b> Oh yeah, the afterbirth floats. Yeah. <i>[smiles]</i><br/><b>Creed Bratton:</b> Must be like the tide at Omaha Beach.<br/><b>Jan Levinson:</b> Oh no, it's actually really hygienic, Creed.<br/><b>Creed Bratton:</b> <i>[shakes his head]</i> Ugh...]]></text>
+    </quote>
+    <quote id="471">
+        <season>5</season>
+        <episode>Crime Aid</episode>
+        <airdate>October 23, 2008</airdate>
+        <character>Michael Scott</character>
+        <text><![CDATA[<b>Michael Scott:</b> It squeaks when you bang it. That's what she said.]]></text>
+    </quote>
+    <quote id="472">
+        <season>5</season>
+        <episode>Crime Aid</episode>
+        <airdate>October 23, 2008</airdate>
+        <character>Michael Scott</character>
+        <character>Jim Halpert</character>
+        <character>Dwight Schrute</character>
+        <text><![CDATA[<b>Michael Scott:</b> <i>[sees office in disarray]</i> Oh my god, what happened?<br/><b>Jim Halpert:</b> We were robbed last night.<br/><b>Dwight Schrute:</b> Bravo, Watson. Looks like a classic seven-man job. Okay, security tapes were stolen. Motives: financial, or possibly vintage HP computer collectors. Hank down at security had clocked out... and that's all we have.]]></text>
+    </quote>
+    <quote id="473">
+        <season>5</season>
+        <episode>Customer Survey</episode>
+        <airdate>November 6, 2008</airdate>
+        <character>Michael Scott</character>
+        <character>Kelly Kapoor</character>
+        <text><![CDATA[<b>Michael Scott:</b> Kelly...<br/><b>Kelly Kapoor:</b> I was raped.</br><b>Michael Scott:</b> You cannot say "I was raped" and expect all of your problems to go away, Kelly. Not again. Don't keep doing that.]]></text>
+    </quote>
+    <quote id="474">
+        <season>5</season>
+        <episode>Customer Survey</episode>
+        <airdate>November 6, 2008</airdate>
+        <character>Pam Beesly</character>
+        <character>Jim Halpert</character>
+        <character>Dwight Schrute</character>
+        <text><![CDATA[<b>Pam Beesly:</b> <i>[on Jim's Bluetooth]</i> Good luck.<br/><b>Jim Halpert:</b> Thanks.<br/><b>Dwight Schrute:</b> I didn't say anything.<br/><b>Pam Beesly:</b> I love you.<br/><b>Jim Halpert:</b> I love you, too.<br/><b>Dwight Schrute:</b> What do you think I'm saying to you?]]></text>
+    </quote>
+    <quote id="475">
+        <season>5</season>
+        <episode>Customer Survey</episode>
+        <airdate>November 6, 2008</airdate>
+        <character>Dwight Schrute</character>
+        <text><![CDATA[<b>Dwight Schrute:</b> <i>[to Kelly]</i> You juked the stats, cupcake.]]></text>
+    </quote>
+    <quote id="476">
+        <season>5</season>
+        <episode>Customer Survey</episode>
+        <airdate>November 6, 2008</airdate>
+        <character>Andy Bernard</character>
+        <character>Michael Scott</character>
+        <character>Jim Halpert</character>
+        <text><![CDATA[<b>Andy Bernard:</b> Big idea, double wedding! Me, Angela, you, Holly.<br/><b>Michael Scott:</b> No. We would never do that. And if we did, it would be with Jim and Pam.<br/><b>Jim Halpert:</b> Yeah, we'd never do that.<br/><b>Michael Scott:</b> Yeah, so there you go.]]></text>
+    </quote>
+    <quote id="477">
+        <season>5</season>
+        <episode>Customer Survey</episode>
+        <airdate>November 6, 2008</airdate>
+        <character>Michael Scott</character>
+        <character>Jim Halpert</character>
+        <text><![CDATA[<b>Michael Scott:</b> <i>[reading the customer survey]</i> "Jim Halpert is smudge and arrogant."</br><b>Jim Halpert:</b> I think he means smug.<br/><b>Michael Scott:</b> Arrogance.<br/<b>Jim Halpert:</b> Michael, I'm just trying to...<br/><b>Michael Scott:</b> <i>[interrupting]</i> And there's our smudgeness.]]></text>
+    </quote>
+    <quote id="478">
+        <season>5</season>
+        <episode>Business Trip</episode>
+        <airdate>November 13, 2008</airdate>
+        <character>Michael Scott</character>
+        <character>Meredith Palmer</character>
+        <text><![CDATA[<b>Michael Scott:</b> Meredith, I would like you to pretend you're from Abu Dhabi.<br/><b>Meredith Palmer:</b> Hello.<br/><b>Michael Scott:</b> I am ashamed at your naked face. I must cover it with my jacket. You are now sexy in your culture.]]></text>
+    </quote>
+    <quote id="479">
+        <season>5</season>
+        <episode>Business Trip</episode>
+        <airdate>November 13, 2008</airdate>
+        <character>Jim Halpert</character>
+        <text><![CDATA[<b>Jim Halpert:</b> Pam comes back from New York next week, and everyone here is just so excited for me. And involved. And intrusive. And weird.]]></text>
+    </quote>
+    <quote id="480">
+        <season>5</season>
+        <episode>Frame Toby</episode>
+        <airdate>November 20, 2008</airdate>
+        <character>Dwight Schrute</character>
+        <text><![CDATA[<b>Dwight Schrute:</b> What is my perfect crime? I break into Tiffany's at midnight. Do I go for the vault? No, I go for the chandelier. It's priceless. As I'm taking it down, a woman catches me. She tells me to stop. It's her father's business. She's Tiffany. I say no. We make love all night. In the morning, the cops come and I escape in one of their uniforms. I tell her to meet me in Mexico, but I go to Canada. I don't trust her. Besides, I like the cold. Thirty years later, I get a postcard. I have a son and he's the chief of police. This is where the story gets interesting. I tell Tiffany to meet me in Paris by the Trocadero. She's been waiting for me all these years. She's never taken another lover. I don't care. I don't show up. I go to Berlin. That's where I stashed the chandelier.]]></text>
+    </quote>
+    <quote id="481">
+        <season>5</season>
+        <episode>Frame Toby</episode>
+        <airdate>November 20, 2008</airdate>
+        <character>Jim Halpert</character>
+        <text><![CDATA[<b>Jim Halpert:</b> It's got shag carpets. I mean, you can't blame my parents. It was the '70s. And why would you want to buy ugly wood from trees when you can have paneling and a painting of some creepy clowns that is apparently crucial to the structural integrity of the building?]]></text>
+    </quote>
+    <quote id="482">
+        <season>5</season>
+        <episode>Frame Toby</episode>
+        <airdate>November 20, 2008</airdate>
+        <character>Michael Scott</character>
+        <character>Dwight Schrute</character>
+        <text><![CDATA[<b>Michael Scott:</b> You're the bait for Toby? No. For one thing, he's not gay. And if somebody were to be bait, it would be Jim or Ryan or me.<br/><b>Dwight Schrute:</b> Men find me desirable.<br/><b>Michael Scott:</b> Yes. Sure they do, Dwight.]]></text>
+    </quote>
+    <quote id="483">
+        <season>5</season>
+        <episode>Frame Toby</episode>
+        <airdate>November 20, 2008</airdate>
+        <character>Dwight Schrute</character>
+        <character>Michael Scott</character>
+        <text><![CDATA[<b>Dwight Schrute:</b> There's still one thing we can do to get Toby fired.<br/><b>Michael Scott:</b> What's that?<br/><b>Dwight Schrute:</b> <i>[closes the office door]</i> Frame him for using drugs.<br/><b>Michael Scott:</b> Frame him?<br/><b>Dwight Schrute:</b> Yeah. It's illegal, but, everything they do on "The Shield" is illegal.]]></text>
+    </quote>
+    <quote id="484">
+        <season>5</season>
+        <episode>Frame Toby</episode>
+        <airdate>November 20, 2008</airdate>
+        <character>Michael Scott</character>
+        <character>Dwight Schrute</character>
+        <text><![CDATA[<b>Michael Scott:</b> I've never framed a man before. Have you?<br/><b>Dwight Schrute:</b> No, I've framed animals before. I framed a raccoon for opening a Christmas present. And I framed a bear for eating out of the garbage.]]></text>
+    </quote>
+    <quote id="485">
+        <season>5</season>
+        <episode>Frame Toby</episode>
+        <airdate>November 20, 2008</airdate>
+        <character>Michael Scott</character>
+        <text><![CDATA[<b>Michael Scott:</b> It just seems awfully mean. But sometimes, the ends justify the mean.]]></text>
+    </quote>
+    <quote id="486">
+        <season>5</season>
+        <episode>Frame Toby</episode>
+        <airdate>November 20, 2008</airdate>
+        <character>Dwight Schrute</character>
+        <text><![CDATA[<b>Dwight Schrute:</b> I love catching people in the act. That's why I always whip open doors.]]></text>
+    </quote>
+    <quote id="487">
+        <season>5</season>
+        <episode>Frame Toby</episode>
+        <airdate>November 20, 2008</airdate>
+        <character>Dwight Schrute</character>
+        <character>Jim Halpert</character>
+        <text><![CDATA[<b>Dwight Schrute:</b> Brownies, is it? <i>[scoffs]</i><br/><b>Dwight Schrute:</b> Pastry cubes made of sugar and fat? No, thank you. I'll stick with my jerky.<br/><b>Jim Halpert:</b> So why'd you come in here?<br/><b>Dwight Schrute:</b> To socialize. And inform.]]></text>
+    </quote>
+    <quote id="488">
+        <season>5</season>
+        <episode>Frame Toby</episode>
+        <airdate>November 20, 2008</airdate>
+        <character>Michael Scott</character>
+        <text><![CDATA[<b>Michael Scott:</b> I tried. I tried. I tried to talk to Toby and be his friend, but that is like trying to be friends with an evil snail. I feel like I'm dying inside. I feel like Neve Campbell in "Scream 2." She thinks she can go off to college and be happy. And then, the murderer comes back and starts killing off all of her friends. Learned a lot of lessons from that movie. This is just one of them.]]></text>
+    </quote>
+    <quote id="489">
+        <season>5</season>
+        <episode>The Surplus</episode>
+        <airdate>December 4, 2008</airdate>
+        <character>Toby Flenderson</character>
+        <character>Michael Scott</character>
+        <text><![CDATA[<b>Toby Flenderson:</b> We should really have the office's air quality tested. I mean, we have radon coming from below. We have asbestos in the ceilings. These are silent killers.<br/><b>Michael Scott:</b> You are the silent killer. Go back to the annex.]]></text>
+    </quote>
+    <quote id="490">
+        <season>5</season>
+        <episode>The Surplus</episode>
+        <airdate>December 4, 2008</airdate>
+        <character>Michael Scott</character>
+        <text><![CDATA[<b>Michael Scott:</b> Well, I swallowed all your ideas. I'm going to digest them and see what comes out the other end.]]></text>
+    </quote>
+    <quote id="491">
+        <season>5</season>
+        <episode>Moroccan Christmas</episode>
+        <airdate>December 11, 2008</airdate>
+        <character>Dwight Schrute</character>
+        <text><![CDATA[<b>Dwight Schrute:</b> In the Schrute family, we believe in a five-fingered intervention. Awareness, education, control, acceptance and punching.]]></text>
+    </quote>
+    <quote id="492">
+        <season>5</season>
+        <episode>Moroccan Christmas</episode>
+        <airdate>December 11, 2008</airdate>
+        <character>Jim Halpert</character>
+        <character>Andy Bernard</character>
+        <text><![CDATA[<b>Jim Halpert:</b> Do you take requests?<br/><b>Andy Bernard:</b> Sure.<br/><b>Jim Halpert:</b> Please stop, because we're having a Christmas party.]]></text>
+    </quote>
+    <quote id="493">
+        <season>5</season>
+        <episode>Moroccan Christmas</episode>
+        <airdate>December 11, 2008</airdate>
+        <character>Michael Scott</character>
+        <text><![CDATA[<b>Michael Scott:</b> I need to find ways to push Meredith to the bottom. I think I can do it. I did it with Jan.]]></text>
+    </quote>
+    <quote id="494">
+        <season>5</season>
+        <episode>Moroccan Christmas</episode>
+        <airdate>December 11, 2008</airdate>
+        <character>Meredith Palmer</character>
+        <character>Michael Scott</character>
+        <text><![CDATA[<b>Meredith Palmer:</b> I don't mind telling you that I have an addiction. I do. To porn.<br/><b>Michael Scott:</b> All right, no, no, no, no. That is... The image, I think we all can agree, is very disgusting...]]></text>
+    </quote>
+    <quote id="495">
+        <season>5</season>
+        <episode>Moroccan Christmas</episode>
+        <airdate>December 11, 2008</airdate>
+        <character>Jim Halpert</character>
+        <character>Pam Beesly</character>
+        <text><![CDATA[<b>Jim Halpert:</b> <i>[regarding Meredith's intervention]</i> They've been in there for 45 minutes.<br/><b>Pam Beesly:</b> I know. If she wasn't an alcoholic before, she is now.]]></text>
+    </quote>
+    <quote id="496">
+        <season>5</season>
+        <episode>Moroccan Christmas</episode>
+        <airdate>December 11, 2008</airdate>
+        <character>Andy Bernard</character>
+        <text><![CDATA[<b>Andy Bernard:</b> When I was in college, I used to get wicked hammered. My nickname was "Puke." I would chug a fifth of So-Co, sneak into a frat party, polish off a few people's empties, some brewskies, some Jell-O shots, do some body shots off myself, pass out, wake up the next morning, boot, rally, more So-Co, head to class. Probably would have gotten expelled if I'd let it affect my grades, but I aced all my courses. They called me "Ace." It was totally awesome. I got straight B's. They called me "Buzz."]]></text>
+    </quote>
+    <quote id="497">
+        <season>5</season>
+        <episode>Moroccan Christmas</episode>
+        <airdate>December 11, 2008</airdate>
+        <character>Michael Scott</character>
+        <character>Oscar Martinez</character>
+        <text><![CDATA[<i>[during the intervention, Michael reads questions to Meredith]</i><br/><b>Michael Scott:</b> "Have you ever, under the influence of alcohol, questioned the teachings of the Mormon Church?"<br/><b>Oscar Martinez:</b> Where did you get this?<br/><b>Michael Scott:</b> I got it on a website. That's not important.]]></text>
+    </quote>
+    <quote id="498">
+        <season>5</season>
+        <episode>The Duel</episode>
+        <airdate>January 15, 2009</airdate>
+        <character>Jim Halpert</character>
+        <text><![CDATA[<b>Jim Halpert:</b> <i>[Addressing the camera]</i> Andy still doesn't know that Angela's having an affair with Dwight. And it's been 17 days. I mean, eventually he'll figure it out when their kids have giant heads and beet-stained teeth.]]></text>
+    </quote>
+    <quote id="499">
+        <season>5</season>
+        <episode>The Duel</episode>
+        <airdate>January 15, 2009</airdate>
+        <character>Dwight Schrute</character>
+        <text><![CDATA[<i>[reading the note Andy posted to a bush in the parking lot]</i><br/><b>Dwight Schrute:</b> "From the desk of Andrew Bernard." A note. Pathetic. "Dear Dwight, by now you have received my note. How are you? I am well. You are no doubt wondering why I have left this note. It's come to my attention that in any physical match with you, I would surely be bested." True. "The soft underbelly of my refined upbringing is my soft underbelly. Alas, after much consideration..."]]></text>
+    </quote>
+    <quote id="500">
+        <season>5</season>
+        <episode>The Duel</episode>
+        <airdate>January 15, 2009</airdate>
+        <character>Michael Scott</character>
+        <text><![CDATA[<b>Michael Scott:</b> <i>[talking to David Wallace]</i> So I was in the office. And I look over to our accounting division, and there is Kevin Malone. Kevin is wearing a jacket that I have never seen before, and... I call over to Kevin, "Kevin, is that a tweed jacket?" And he looks at me and he says, "Michael, yes it is a tweed jacket." And I look back at him and I say, "I feel the need..." <i>[long pause]</i> "the need for tweed." So...]]></text>
+    </quote>
+    <quote id="501">
+        <season>5</season>
+        <episode>Stress Relief</episode>
+        <airdate>February 1, 2009</airdate>
+        <character>Michael Scott</character>
+        <text><![CDATA[<b>Michael Scott:</b> Jim, you're 6'11", and you weigh 90 pounds. Gumby has a better body than you. Boom. Roasted. Dwight, you're a kiss-ass. Boom. Roasted. Pam, you failed art school. Boom. Roasted. Meredith, you've slept with so many guys you're starting to look like one. Boom. Roasted. Kevin, I can't decide between a fat joke and a dumb joke. Boom. Roasted. Creed, your teeth called, your breath stinks. Boom. Roasted. Angela, where's Angela? Well, there you are. I didn't see you behind that grain of rice. Boom. Roasted. Stanley, you crush your wife during sex and your heart sucks. Boom. Roasted.]]></text>
+    </quote>
+    <quote id="502">
+        <season>5</season>
+        <episode>Stress Relief</episode>
+        <airdate>February 1, 2009</airdate>
+        <character>Michael Scott</character>
+        <text><![CDATA[<b>Michael Scott:</b> Stanley! Stanley! You will not die! Stanley! Stanley! Barack is President! You are black, Stanley!]]></text>
+    </quote>
+    <quote id="503">
+        <season>5</season>
+        <episode>Stress Relief</episode>
+        <airdate>February 1, 2009</airdate>
+        <character>Dwight Schrute</character>
+        <text><![CDATA[<b>Dwight Schrute:</b> It's very unusual for Michael not to show up to work. My guess, he's either deeply depressed or an icicle has snapped off his roof and impaled his brain. He has this terrible habit of standing directly underneath them and staring up at them. And I always say, "Michael, take two steps back and stare at the icicle from the side." And he's like, "No, I like the way they look from standing directly underneath them." It was only a matter of time.]]></text>
+    </quote>
+    <quote id="504">
+        <season>5</season>
+        <episode>Stress Relief</episode>
+        <airdate>February 1, 2009</airdate>
+        <character>Michael Scott</character>
+        <text><![CDATA[<b>Michael Scott:</b> I've got to make sure that YouTube comes down to tape this.]]></text>
+    </quote>
+    <quote id="505">
+        <season>5</season>
+        <episode>Stress Relief</episode>
+        <airdate>February 1, 2009</airdate>
+        <character>Michael Scott</character>
+        <character>David Wallace</character>
+        <character>Dwight Schrute</character>
+        <text><![CDATA[<b>Michael Scott:</b> Dwight. We are not mad, we are just disappointed.<br/><b>David Wallace:</b> No, we are mad.<br/><b>Michael Scott:</b> Yes, we are. We are livid. But we are going to let this one slide.<br/><b>Dwight Schrute:</b> Thank you.<br/><b>David Wallace:</b> No, we're not.<br/><b>Michael Scott:</b> I am not a mind reader, David.]]></text>
+    </quote>
+    <quote id="506">
+        <season>5</season>
+        <episode>Stress Relief</episode>
+        <airdate>February 1, 2009</airdate>
+        <character>Michael Scott</character>
+        <character>Kevin Malone</character>
+        <text><![CDATA[<i>[During a CPR training excercise]</i><br/><b>Michael Scott:</b> No, Rose. They are not breathing. And they have no arms or legs.<br/><b>Rose:</b> No, that's not part of it.<br/><b>Michael Scott:</b> Where are they? You know what? If we come across somebody with no arms or legs, do we bother resuscitating them? I mean, what quality of life do we have there?<br/><b>Kevin Malone:</b> I would want to live with no legs.<br/><b>Michael Scott:</b> How about no arms? No arms or legs is basically how you exist right now, Kevin. You don't do anything.]]></text>
+    </quote>
+    <quote id="507">
+        <season>5</season>
+        <episode>Stress Relief</episode>
+        <airdate>February 1, 2009</airdate>
+        <character>Pam Beesly</character>
+        <character>Jim Halpert</character>
+        <text><![CDATA[<b>Pam Beesly:</b> We don't normally download movies illegally because we're honest, hardworking people.<br/><b>Jim Halpert:</b> And we don't know how.<br/><b>Pam Beesly:</b> But Andy does, so we have to watch it with him.<br/><b>Jim Halpert:</b> Punishment fits the crime.]]></text>
+    </quote>
+    <quote id="508">
+        <season>5</season>
+        <episode>Stress Relief</episode>
+        <airdate>February 1, 2009</airdate>
+        <character>Michael Scott</character>
+        <text><![CDATA[<i>[after Michael believes Stanley's bio-feedback machine isn't working right because it beeps anytime he's near]<i><br/><b>Michael Scott:</b> Oscar, would you reach over and touch his thing? That's what he said. Right, guys? Because of gay.]]></text>
+    </quote>
+    <quote id="509">
+        <season>5</season>
+        <episode>Stress Relief</episode>
+        <airdate>February 1, 2009</airdate>
+        <character>Dwight Schrute</character>
+        <character>Jim Halpert</character>
+        <text><![CDATA[<b>Dwight Schrute:</b> Attention, everyone, I just got a text from Michael. He says "personnel day." Are we hiring?<br/><b>Jim Halpert:</b> Yeah. You're being replaced.]]></text>
+    </quote>
+    <quote id="510">
+        <season>5</season>
+        <episode>Stress Relief</episode>
+        <airdate>February 1, 2009</airdate>
+        <character>Michael Scott</character>
+        <text><![CDATA[<b>Michael Scott:</b> My God, if you're wearing a dress, please keep your knees together, nobody wants to see that.]]></text>
+    </quote>
+    <quote id="511">
+        <season>5</season>
+        <episode>Stress Relief</episode>
+        <airdate>February 1, 2009</airdate>
+        <character>Michael Scott</character>
+        <text><![CDATA[<b>Michael Scott:</b> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.]]></text>
+    </quote>
+    <quote id="512">
+        <season>5</season>
+        <episode>Stress Relief</episode>
+        <airdate>February 1, 2009</airdate>
+        <character>Dwight Schrute</character>
+        <character>Jim Halpert</character>
+        <text><![CDATA[<b>Dwight Schrute:</b> <i>[unfolds a letter from his jacket and reads from it]</i> I state my regret.<br/><b>Jim Halpert:</b> You couldn't have memorized that?]]></text>
+    </quote>
+    <quote id="513">
+        <season>5</season>
+        <episode>Stress Relief</episode>
+        <airdate>February 1, 2009</airdate>
+        <character>Andy Bernard</character>
+        <text><![CDATA[<b>Andy Bernard:</b> I'm not insightful enough to be a movie critic. Maybe I could be a food critic. "These muffins taste bad." Or an art critic. "That painting is bad."]]></text>
+    </quote>
+    <quote id="514">
+        <season>5</season>
+        <episode>Lecture Circuit: Part 1</episode>
+        <airdate>February 5, 2009</airdate>
+        <character>Michael Scott</character>
+        <text><![CDATA[<b>Michael Scott:</b> <i>[to Pam]</i> Good morning. You ready? And we're off. Like a herd of turtles.]]></text>
+    </quote>
+    <quote id="515">
+        <season>5</season>
+        <episode>Lecture Circuit: Part 1</episode>
+        <airdate>February 5, 2009</airdate>
+        <character>Pam Beesly</character>
+        <text><![CDATA[<b>Pam Beesly:</b> I hate the idea that someone out there hates me. I hate even thinking that al-Qaeda hates me. I think if they got to know me, they wouldn't hate me.]]></text>
+    </quote>
+    <quote id="516">
+        <season>5</season>
+        <episode>Lecture Circuit: Part 1</episode>
+        <airdate>February 5, 2009</airdate>
+        <character>Michael Scott</character>
+        <text><![CDATA[<b>Michael Scott:</b> <i>[speaking to a pregnant Karen]</i> I'm just trying to figure out the last time you and Jim had sex, and...]]></text>
+    </quote>
+    <quote id="517">
+        <season>5</season>
+        <episode>Lecture Circuit: Part 1</episode>
+        <airdate>February 5, 2009</airdate>
+        <character>Jim Halpert</character>
+        <character>Dwight Schrute</character>
+        <text><![CDATA[<b>Jim Halpert:</b> Why have you chosen brown and gray balloons?<br/><b>Dwight Schrute:</b> They match the carpet.<br/><b>Jim Halpert:</b> What is that?<br/><b>Jim Halpert:</b> <i>[reading a banner]</i> "It is your birthday," period.<br/><b>Dwight Schrute:</b> It is a statement of fact.<br/><b>Jim Halpert:</b> Not even an exclamation point?<br/><b>Dwight Schrute:</b> This is more professional. It's not like she discovered a cure for cancer.]]></text>
+    </quote>
+    <quote id="518">
+        <season>5</season>
+        <episode>Lecture Circuit: Part 1</episode>
+        <airdate>February 5, 2009</airdate>
+        <character>Michael Scott</character>
+        <text><![CDATA[<b>Michael Scott:</b> I have an amazing mnemonic device by which I have now memorized all of your names.<br/><i>[pointing to people in the room]</i><br/><b>Michael Scott:</b> Shirty, mole, lazy eye, Mexico, baldy, sugar boobs, black woman.]]></text>
+    </quote>
+    <quote id="519">
+        <season>5</season>
+        <episode>Lecture Circuit: Part 1</episode>
+        <airdate>February 5, 2009</airdate>
+        <character>Jim Halpert</character>
+        <character>Dwight Schrute</character>
+        <text><![CDATA[<b>Jim Halpert:</b> I can't believe how bad this looks.<br/><b>Dwight Schrute:</b> Are you trying to hurt my feelings? Because, if so, you are succeeding. Fortunately, my feelings regenerate twice the speed of a normal man's.]]></text>
+    </quote>
+    <quote id="520">
+        <season>5</season>
+        <episode>Blood Drive</episode>
+        <airdate>March 5, 2009</airdate>
+        <character>Kelly Kapoor</character>
+        <text><![CDATA[<b>Kelly Kapoor:</b> So I received my first Valentine from a secret admirer.<br/><i>[opens envelope and reads from card]</i><br/><b>Kelly Kapoor:</b> Roses are red, violets are blue. It's time for your dental cleaning and maybe a checkup, too.]]></text>
+    </quote>
+    <quote id="521">
+        <season>5</season>
+        <episode>Blood Drive</episode>
+        <airdate>March 5, 2009</airdate>
+        <character>Dwight Schrute</character>
+        <text><![CDATA[<b>Dwight Schrute:</b> I trained my major blood vessels to retract into my body on command. Also, I can retract my penis up into itself.]]></text>
+    </quote>
+    <quote id="522">
+        <season>5</season>
+        <episode>Blood Drive</episode>
+        <airdate>March 5, 2009</airdate>
+        <character>Jim Halpert</character>
+        <text><![CDATA[<b>Jim Halpert:</b> I have a lot of work to do this afternoon. Those mines aren't going to sweep themselves.]]></text>
+    </quote>
+    <quote id="523">
+        <season>5</season>
+        <episode>Blood Drive</episode>
+        <airdate>March 5, 2009</airdate>
+        <character>Michael Scott</character>
+        <character>Oscar Martinez</character>
+        <text><![CDATA[<b>Michael Scott:</b> Where's Andy?<br/><b>Oscar Martinez:</b> He's on one of his honeymoons.<br/><b>Michael Scott:</b> What?<br/><b>Oscar Martinez:</b> He made nonrefundable deposits on his honeymoons, so he's just knocking them off one at a time. I think today he's hot-air ballooning, and later he's got a couples' massage.]]></text>
+    </quote>
+    <quote id="524">
+        <season>5</season>
+        <episode>Blood Drive</episode>
+        <airdate>March 5, 2009</airdate>
+        <character>Kevin Malone</character>
+        <text><![CDATA[<b>Kevin Malone:</b> My worst breakup was with Stacy. It was a Sunday morning. We were reading the paper and I said, "Oh, my God, I think the Eagles could clinch the NFC East." And she said that we're done.]]></text>
+    </quote>
+    <quote id="525">
+        <season>5</season>
+        <episode>Blood Drive</episode>
+        <airdate>March 5, 2009</airdate>
+        <character>Meredith Palmer</character>
+        <character>Dwight Schrute</character>
+        <text><![CDATA[<b>Meredith Palmer:</b> She could be your soul mate.<br/><b>Dwight Schrute:</b> Not likely. With three billion women on the planet, most of them live in Asia, so the numbers just don't add up.]]></text>
+    </quote>
+    <quote id="526">
+        <season>5</season>
+        <episode>Blood Drive</episode>
+        <airdate>March 5, 2009</airdate>
+        <character>Kevin Palmer</character>
+        <text><![CDATA[<b>Kevin Malone:</b> I get very nervous talking to pretty girls. Seriously, feel how sweaty my hand is.]]></text>
+    </quote>
+    <quote id="527">
+        <season>5</season>
+        <episode>Golden Ticket</episode>
+        <airdate>March 12, 2009</airdate>
+        <character>Michael Scott</character>
+        <character>Jim Halpert</character>
+        <character>Creed Bratton</character>
+        <text><![CDATA[<b>Michael Scott:</b> I am just a net that traps all of your crappy subconscious ideas and adds a little bit of my own childhood memories and whimsy, so...<br/><b>Jim Halpert:</b> <i>[interrupting]</i> Okay, well, I lost a ton of money today. And I have a mortgage, so I'm a little pissed, too.<br/><b>Michael Scott:</b> Thank you. Jim is with me.<br/><b>Jim Halpert:</b> Absolutely not. I'm mad at you.<br/><b>Michael Scott:</b> Well, you know what, Jim, it is not my fault that you bought a house to impress Pam. That is why carnations exist.<br/><b>Creed Bratton:</b> That's not why.]]></text>
+    </quote>
+    <quote id="528">
+        <season>5</season>
+        <episode>Golden Ticket</episode>
+        <airdate>March 12, 2009</airdate>
+        <character>Michael Scott</character>
+        <character>Dwight Schrute</character>
+        <text><![CDATA[<b>Michael Scott:</b> Why do you have a diary?<br/><b>Dwight Schrute:</b> <i>[whispering]</i> To keep secrets from my computer.]]></text>
+    </quote>
+    <quote id="529">
+        <season>5</season>
+        <episode>Golden Ticket</episode>
+        <airdate>March 12, 2009</airdate>
+        <character>Creed Bratton</character>
+        <character>Dwight Schrute</character>
+        <text><![CDATA[<b>Creed Bratton:</b> Good work, kid.<br/><b>Dwight Schrute:</b> Thanks old man.]]></text>
+    </quote>
+    <quote id="530">
+        <season>5</season>
+        <episode>Golden Ticket</episode>
+        <airdate>March 12, 2009</airdate>
+        <character>Michael Scott</character>
+        <text><![CDATA[<b>Michael Scott:</b> I have written these things because it is my responsibility as manager of this branch to profiligate great ideas.]]></text>
+    </quote>
+    <quote id="531">
+        <season>5</season>
+        <episode>Golden Ticket</episode>
+        <airdate>March 12, 2009</airdate>
+        <character>Andy Bernard</character>
+        <character>Pam Beesly</character>
+        <character>Jim Halpert</character>
+        <text><![CDATA[<b>Andy Bernard:</b> Every compliment has to be backhanded. "Oh, I like your dress, but I'd like it more if you had prettier hair."<br/><b>Pam Beesly:</b> That's psychotic. Do guys actually do that?<br/><b>Jim Halpert:</b> Guys with girlfriends don't.]]></text>
+    </quote>
+    <quote id="532">
+        <season>5</season>
+        <episode>Golden Ticket</episode>
+        <airdate>March 12, 2009</airdate>
+        <character>Michael Scott</character>
+        <text><![CDATA[<b>Michael Scott:</b> Okay, I'm going to ask you something, and I want you to be honest. What is a pallet?]]></text>
+    </quote>
+    <quote id="533">
+        <season>5</season>
+        <episode>Golden Ticket</episode>
+        <airdate>March 12, 2009</airdate>
+        <character>Stanley Hudson</character>
+        <text><![CDATA[<b>Stanley Hudson:</b> I've got a golden-ticket idea. Why don't you skip on up to the roof and jump off?]]></text>
+    </quote>
+    <quote id="534">
+        <season>5</season>
+        <episode>Golden Ticket</episode>
+        <airdate>March 12, 2009</airdate>
+        <character>Jim Halpert</character>
+        <character>Kevin Malone</character>
+        <character>Pam Beesly</character>
+        <text><![CDATA[<b>Jim Halpert:</b> Well, all I'm saying is it's a first date, so just keep a respectful distance.<br/><b>Kevin Malone:</b> Right.<br/><b>Pam Beesly:</b> I don't think Jim means to say that you shouldn't touch her.<br/><b>Jim Halpert:</b> No, that is what I mean.<br/><b>Pam Beesly:</b> Shush.]]></text>
+    </quote>
+    <quote id="535">
+        <season>5</season>
+        <episode>Golden Ticket</episode>
+        <airdate>March 12, 2009</airdate>
+        <character>Andy Bernard</character>
+        <text><![CDATA[<i>[arguing with Jim and Pam]</i><br/><b>Andy Bernard:</b> Put your heart out there, it's liable to just turn into this blackened, carbon brick, where it has barbecue sauce of shame and rage. And two hot people with a perfect relationship would not understand that.]]></text>
+    </quote>
+    <quote id="536">
+        <season>5</season>
+        <episode>Golden Ticket</episode>
+        <airdate>March 12, 2009</airdate>
+        <character>Michael Scott</character>
+        <character>Dwight Schrute</character>
+        <text><![CDATA[<b>Michael Scott:</b> We think a lot a lot alike. Sometimes you will think something, and I will say what you're thinking.<br/><b>Dwight Schrute:</b> Okay, what am I thinking right now?<br/><b>Michael Scott:</b> Nacho chips.<br/><b>Dwight Schrute:</b> No. I was thinking about how the skin is the largest organ of the body.]]></text>
+    </quote>
+    <quote id="537">
+        <season>5</season>
+        <episode>Golden Ticket</episode>
+        <airdate>March 12, 2009</airdate>
+        <character>Jim Halpert</character>
+        <character>Michael Scott</character>
+        <character>Dwight Schrute</character>
+        <text><![CDATA[<i>[as David Wallace congratulates Dwight for the golden-ticket idea and Michael tries to get Dwight to admit it's not his]</i><br/><b>Jim Halpert:</b> You're talking to Dwight Schrute, the biggest "Wonka" fan I know. I mean, you've been talking about that movie for years.<br/><b>Michael Scott:</b> What?<br/><b>Jim Halpert:</b> <i>[to Dwight]</i> You know what, I even made fun of you when you dressed up as Willy Wonka to pitch this idea, and, for that, I apologize.<br/><b>Dwight Schrute:</b> Apology rejected.]]></text>
+    </quote>
+    <quote id="538">
+        <season>5</season>
+        <episode>New Boss</episode>
+        <airdate>March 19, 2009</airdate>
+        <character>Dwight Schrute</character>
+        <character>Michael Scott</character>
+        <text><![CDATA[<b>Dwight Schrute:</b> Mr. Peanut is not classy.<br/><b>Michael Scott:</b> He is.<br/><b>Dwight Schrute:</b> He is a regular peanut. He just happens to have a cane, a monocle and a top hat.<br/><b>Michael Scott:</b> That's what makes him classy.]]></text>
+    </quote>
+    <quote id="539">
+        <season>5</season>
+        <episode>New Boss</episode>
+        <airdate>March 19, 2009</airdate>
+        <character>Michael Scott</character>
+        <character>Pam Beesly</character>
+        <text><![CDATA[<b>Michael Scott: Surprise!</b><br/><i>[unveiling a table full of bagels]</i><br/><b>Michael Scott:</b> As you can see, I turned the bagels from O's into C's for Charles.<br/><b>Charles Miner:</b> Thank you.<br/><b>Michael Scott:</b> Took me all night.<br/><b>Pam Beesly:</b> This is what you did last night?]]></text>
+    </quote>
+    <quote id="540">
+        <season>5</season>
+        <episode>New Boss</episode>
+        <airdate>March 19, 2009</airdate>
+        <character>Michael Scott</character>
+        <character>David Wallace</character>
+        <text><![CDATA[<b>Michael Scott:</b> <i>[on telephone]</i> David, it was my understanding that I was not going to be managed.<br/><b>David Wallace:</b> What gave you that idea?<br/><b>Michael Scott:</b> <i>[pausing]</i> It was my understand.<br/><b>David Wallace:</b> I see.<br/><b>Michael Scott:</b> Listen, why don't we just leave the position vacant? Truth be told, I think I thrive under a lack of accountability.]]></text>
+    </quote>
+    <quote id="541">
+        <season>5</season>
+        <episode>New Boss</episode>
+        <airdate>March 19, 2009</airdate>
+        <character>Michael Scott</character>
+        <text><![CDATA[<b>Michael Scott:</b> I just got off the horn with David Wallace, and he said that you and I should try to get to know each other better, and I agree. So, what I would like you to do is tell me something that you've never told anybody before.]]></text>
+    </quote>
+    <quote id="542">
+        <season>5</season>
+        <episode>New Boss</episode>
+        <airdate>March 19, 2009</airdate>
+        <character>Michael Scott</character>
+        <text><![CDATA[<b>Michael Scott:</b> <i>[on phone]</i> Michael Scott calling for David. Well, just tell him to call me ASAP as possible.]]></text>
+    </quote>
+    <quote id="543">
+        <season>5</season>
+        <episode>New Boss</episode>
+        <airdate>March 19, 2009</airdate>
+        <character>Pam Beesly</character>
+        <text><![CDATA[<b>Pam Beesly:</b> I can tell Michael's mood by which comedy routine he chooses to do. The more infantile, the more upset he is. And he just skipped the "Ace Ventura" talking-butt thing. He never skips it. This is bad.]]></text>
+    </quote>
+    <quote id="544">
+        <season>5</season>
+        <episode>New Boss</episode>
+        <airdate>March 19, 2009</airdate>
+        <character>Michael Scott</character>
+        <text><![CDATA[<b>Michael Scott:</b> You have no idea how high I can fly.]]></text>
+    </quote>
+    <quote id="545">
+        <season>5</season>
+        <episode>New Boss</episode>
+        <airdate>March 19, 2009</airdate>
+        <character>Jim Halpert</character>
+        <text><![CDATA[<b>Charles Miner:</b> What is a two-way petting zoo?<br/><b>Jim Halpert:</b> You pet the animals, they pet you back.]]></text>
+    </quote>
+    <quote id="546">
+        <season>5</season>
+        <episode>Two Weeks</episode>
+        <airdate>March 26, 2009</airdate>
+        <character>Oscar Martinez</character>
+        <text><![CDATA[<b>Oscar Martinez:</b> <i>[about Michael]</i> And just like that, as mysteriously as he arrived, he was gone.]]></text>
+    </quote>
+    <quote id="547">
+        <season>5</season>
+        <episode>Dream Team</episode>
+        <airdate>April 9, 2009</airdate>
+        <character>Kevin Malone</character>
+        <text><![CDATA[<b>Kevin Malone:</b> Dunder Mifflin. This is Kevin. Please hold while I transfer you.<br/><i>[yells]</i><b>Kevin Malone:</b> Oscar! Your mom!]]></text>
+    </quote>
+    <quote id="548">
+        <season>5</season>
+        <episode>Dream Team</episode>
+        <airdate>April 9, 2009</airdate>
+        <character>Jim Halpert</character>
+        <text><![CDATA[<b>Jim Halpert:</b> Charles is having Kevin cover the phones for a while. How do I say this diplomatically? I think Kevin is doing exactly as well as anyone might have expected someone like him to perform in a position like that.]]></text>
+    </quote>
+    <quote id="549">
+        <season>5</season>
+        <episode>Michael Scott Paper Company</episode>
+        <airdate>April 9, 2009</airdate>
+        <character>Jim Halpert</character>
+        <text><![CDATA[<b>Jim Halpert:</b> The new receptionist is also named Kelly. So Kelly Kapoor has decided to hover around my desk so that she can run into Charles' office every time he calls for Kelly. She thinks that if she says "You wanted me" enough, he will, in fact, want her. It's not the worst plan she's ever had.]]></text>
+    </quote>
+    <quote id="550">
+        <season>5</season>
+        <episode>Michael Scott Paper Company</episode>
+        <airdate>April 9, 2009</airdate>
+        <character>Erin Hannon</character>
+        <character>Kelly Kapoor</character>
+        <character>Kevin Malone</character>
+        <text><![CDATA[<b>Charles Miner:</b> Okay, I'm gonna call you Kapoor, okay, and you Hannon.<br/><b>Kelly Erin Hannon:</b> If we're changing names, can I be Erin? It's my middle name.<br/><b>Charles Miner:</b> Erin? Okay, that's very pretty.<br/><b>Kelly Kapoor:</b> Well, you know what my name is? Rajnigandha. And I hate it. I hate it!<br/><i>[runs out of Charles' office]</i><br/><b>Kevin Malone:</b> I thought Rajnigandha was a boy's name.]]></text>
+    </quote>
+    <quote id="551">
+        <season>5</season>
+        <episode>Heavy Competition</episode>
+        <airdate>April 16, 2009</airdate>
+        <character>Pam Beesly</character>
+        <text><![CDATA[<b>Pam Beesly:</b> Things are a little slow here. And there's only so much cold-calling you can do in a day. Turns out there's no limit to the number of cheese puffs you can throw at someone's face.<br/><i>[Michael throws a cheese puff and Pam catches it in her mouth]</i><br/><b>Pam Beesly:</b> We're getting pretty good at it.]]></text>
+    </quote>
+    <quote id="552">
+        <season>5</season>
+        <episode>Heavy Competition</episode>
+        <airdate>April 16, 2009</airdate>
+        <character>Dwight Schrute</character>
+        <text><![CDATA[<b>Dwight Schrute:</b> When Michael was in charge, this place was like the Roman Empire. And the Wild West. And war-torn Poland. And Poland.]]></text>
+    </quote>
+    <quote id="553">
+        <season>5</season>
+        <episode>Broke</episode>
+        <airdate>April 23, 2009</airdate>
+        <character>Ryan Howard</character>
+        <text><![CDATA[<b>Ryan Howard:</b> Ever since I've gotten clean, there's something about fresh morning air that just really makes me sick.]]></text>
+    </quote>
+    <quote id="554">
+        <season>5</season>
+        <episode>Broke</episode>
+        <airdate>April 23, 2009</airdate>
+        <character>Michael Scott</character>
+        <character>David Wallace</character>
+        <text><![CDATA[<b>Michael Scott:</b> If tomorrow my company goes under, I will just start another paper company, and then another and another and another. I have no shortage of company names.<br/><b>David Wallace:</b> Michael...<br/><b>Michael Scott:</b> That's one of 'em. Yes. There are our demands. This is what we want. Our balls are in your court.]]></text>
+    </quote>
+    <quote id="555">
+        <season>5</season>
+        <episode>Broke</episode>
+        <airdate>April 23, 2009</airdate>
+        <character>Michael Scott</character>
+        <text><![CDATA[<i>[first lines]</i><br/><b>Michael Scott:</b> It's 4:30 in the morning. Do you know where your kids are? If you are Ryan's parents or Pam's parents or my parents, you do. They're going to be in this van, with me. Who am I? Nothing to fear. I am just a 44-year-old guy with a paper route.]]></text>
+    </quote>
+    <quote id="556">
+        <season>5</season>
+        <episode>Broke</episode>
+        <airdate>April 23, 2009</airdate>
+        <character>Dwight Schrute</character>
+        <character>Jim Halpert</character>
+        <text><![CDATA[<b>Dwight Schrute:</b> I say we fill Michael's office with bees. My apiarist owes me a favor.<br/><i>[David Wallace sighs]</i><br/><b>Jim Halpert:</b> Really? Does he do good work or...<br/><b>Dwight Schrute:</b> <i>[scoffs]</i> No, Jim, I use a bad apiarist.]]></text>
+    </quote>
+    <quote id="557">
+        <season>5</season>
+        <episode>Broke</episode>
+        <airdate>April 23, 2009</airdate>
+        <character>Dwight Schrute</character>
+        <text><![CDATA[<i>[over David, Jim, and Charles deliberating]</i><br/><b>Dwight Schrute:</b> Hey, let me float something out there, okay? Can I just say... Can I say something? There is a hive of bees outside the front door. We kidnap the queen, extract her alarm pheromones, place them on a flushable wipe, and put that in his bathroom.]]></text>
+    </quote>
+    <quote id="558">
+        <season>5</season>
+        <episode>Broke</episode>
+        <airdate>April 23, 2009</airdate>
+        <character>Dwight Schrute</character>
+        <text><![CDATA[<b>Dwight Schrute:</b> Oh, man! If only Michael had children. That's how you really apply the pressure.<br/><b>Charles Miner:</b> <i>[sighing]</i> What is wrong with you?]]></text>
+    </quote>
+    <quote id="559">
+        <season>5</season>
+        <episode>Broke</episode>
+        <airdate>April 23, 2009</airdate>
+        <character>Dwight Schrute</character>
+        <text><![CDATA[<i>[telling Jim a case he's solved]</i><br/><b>Dwight Schrute:</b> Okay, one, Case of the Beet Bandit. Missing beets from all over the farm, no footprints. Inside job, Mose in socks. Boom, case closed.]]></text>
+    </quote>
+    <quote id="560">
+        <season>5</season>
+        <episode>Casual Friday</episode>
+        <airdate>April 30, 2009</airdate>
+        <character>Michael Scott</character>
+        <text><![CDATA[<b>Michael Scott:</b> I have a very difficult decision to make. It's like last week I was at the video store. Do I watch "Devil Wears Prada" again or do I finally get around to seeing "Sophie's Choice"? It is what you would call a classic difficult decision.]]></text>
+    </quote>
+    <quote id="561">
+        <season>5</season>
+        <episode>Casual Friday</episode>
+        <airdate>April 30, 2009</airdate>
+        <character>Jim Halpert</character>
+        <text><![CDATA[<b>Jim Halpert:</b> I'm just hiding out until all this stuff blows over, with Creed, playing chess, at work. He's winning. I feel like I'm describing a dream I had.]]></text>
+    </quote>
+    <quote id="562">
+        <season>5</season>
+        <episode>Casual Friday</episode>
+        <airdate>April 30, 2009</airdate>
+        <character>Creed Bratton</character>
+        <character>Jim Halpert</character>
+        <text><![CDATA[<b>Creed Bratton:</b> So, hey, I want to set you up with my daughter.<br/><b>Jim Halpert:</b> Oh, I'm engaged to Pam.<br/><b>Creed Bratton:</b> I thought you were gay.<br/><b>Jim Halpert:</b> <i>[clicks tongue]</i> Then why would you want to set me up with your daughter?<br/><b>Creed Bratton:</b> I don't know.]]></text>
+    </quote>
+    <quote id="563">
+        <season>5</season>
+        <episode>Casual Friday</episode>
+        <airdate>April 30, 2009</airdate>
+        <character>Michael Scott</character>
+        <text><![CDATA[<b>Michael Scott:</b> I set the rules, and you follow them blindly, okay? And if you have a problem with that, then you can talk to our complaint department. It's a trashcan.]]></text>
+    </quote>
+    <quote id="564">
+        <season>5</season>
+        <episode>Casual Friday</episode>
+        <airdate>April 30, 2009</airdate>
+        <character>Phyllis Lapin</character>
+        <text><![CDATA[<b>Phyllis Lapin:</b> <i>[to Pam]</i> Close your mouth, sweetie. You look like a trout.]]></text>
+    </quote>
+    <quote id="565">
+        <season>5</season>
+        <episode>Casual Friday</episode>
+        <airdate>April 30, 2009</airdate>
+        <character>Andy Bernard</character>
+        <text><![CDATA[<b>Andy Bernard:</b> Oh, it is on, like a prawn who yawns at dawn.]]></text>
+    </quote>
+    <quote id="566">
+        <season>5</season>
+        <episode>Casual Friday</episode>
+        <airdate>April 30, 2009</airdate>
+        <character>Michael Scott</character>
+        <text><![CDATA[<b>Michael Scott:</b> I am not to be truffled with.]]></text>
+    </quote>
+    <quote id="567">
+        <season>5</season>
+        <episode>Casual Friday</episode>
+        <airdate>April 30, 2009</airdate>
+        <character>Kelly Kapoor</character>
+        <character>Meredith Palmer</character>
+        <text><![CDATA[<b>Kelly Kapoor:</b> Damn it, Meredith, where are your panties?<br/><b>Meredith Palmer:</b> It's casual day.]]></text>
+    </quote>
+    <quote id="568">
+        <season>5</season>
+        <episode>Casual Friday</episode>
+        <airdate>April 30, 2009</airdate>
+        <character>Michael Scott</character>
+        <text><![CDATA[<b>Michael Scott:</b> No matter how I look at this, I am in the wrong. And I have looked at this thing like 100 different ways, from my point of view, from their point of view, 98 others, and bottom line: I am in the wrong. I'm the bad guy.]]></text>
+    </quote>
+    <quote id="569">
+        <season>5</season>
+        <episode>Cafe Disco</episode>
+        <airdate>May 7, 2009</airdate>
+        <character>Michael Scott</character>
+        <text><![CDATA[<b>Michael Scott:</b> Now I know what the founders of Phillip Morris felt like. You just want to give people a smooth, fun way to relax, and suddenly, you're just some terrible monster.]]></text>
+    </quote>
+    <quote id="570">
+        <season>5</season>
+        <episode>Cafe Disco</episode>
+        <airdate>May 7, 2009</airdate>
+        <character>Michael Scott</character>
+        <character>Oscar Martinez</character>
+        <text><![CDATA[<b>Michael Scott:</b> Daddy's here, and Daddy is going to take care of you.<br/><b>Oscar Martinez:</b> Please don't refer to yourself as our daddy.<br/><b>Michael Scott:</b> I am your big daddy, and I am going to kiss the boo-boo.]]></text>
+    </quote>
+    <quote id="571">
+        <season>5</season>
+        <episode>Cafe Disco</episode>
+        <airdate>May 7, 2009</airdate>
+        <character>Michael Scott</character>
+        <text><![CDATA[<b>Michael Scott:</b> When I was in charge, this place was like Dave & Buster's, people just hanging out, having fun, eating apps. I don't know, it's like Dave died or something.]]></text>
+    </quote>
+    <quote id="572">
+        <season>5</season>
+        <episode>Cafe Disco</episode>
+        <airdate>May 7, 2009</airdate>
+        <character>Angela Martin</character>
+        <text><![CDATA[<b>Angela Martin:</b> Look, I hate to be "that" person, but I just don't like the general spirit of music.]]></text>
+    </quote>
+    <quote id="573">
+        <season>5</season>
+        <episode>Cafe Disco</episode>
+        <airdate>May 7, 2009</airdate>
+        <character>Dwight Schrute</character>
+        <character>Michael Scott</character>
+        <text><![CDATA[<i>[as Phyllis is lying on the floor from her back]</i><br/><b>Dwight Schrute:</b> Hey, hey, hey, hey. I got your text. Who's Phillip?<br/><b>Michael Scott:</b> No, no, no.<br/><b>Dwight Schrute:</b> <i>[to Phyllis]</i> Who tipped you over? Was it Phillip?]]></text>
+    </quote>
+    <quote id="574">
+        <season>5</season>
+        <episode>Company Picnic</episode>
+        <airdate>May 14, 2009</airdate>
+        <character>Michael Scott</character>
+        <text><![CDATA[<b>Michael Scott:</b> I didn't find the perfect moment, because I think today was about just having today. And I think we are one of those couples with a long story when people ask how we found each other. I will see her every now and then, and maybe one year, she'll be with somebody, and the next year, I'll be with somebody and it's gonna take a long time. And then it's perfect. I'm in no rush.]]></text>
+    </quote>
+    <quote id="575">
+        <season>5</season>
+        <episode>Company Picnic</episode>
+        <airdate>May 14, 2009</airdate>
+        <character>Pam Beesly</character>
+        <text><![CDATA[<i>[about her volleyball skills]</i><br/><b>Pam Beesly:</b> Maybe I played a little in junior high and in high school. Maybe a little in college. And went to volleyball camp most summers!]]></text>
+    </quote>
+    <quote id="576">
+        <season>5</season>
+        <episode>Company Picnic</episode>
+        <airdate>May 14, 2009</airdate>
+        <character>Dwight Schrute</character>
+        <text><![CDATA[<b>Dwight Schrute:</b> Normally, I don't condone leaving early, but I have an appointment with the horse doctor. How that horse became a doctor, I don't know. No, I'm kidding. He's just a regular doctor who shoots your horse in the head when its leg is broken.]]></text>
+    </quote>
+    <quote id="577">
+        <season>5</season>
+        <episode>Company Picnic</episode>
+        <airdate>May 14, 2009</airdate>
+        <character>Dwight Schrute</character>
+        <text><![CDATA[<b>Dwight Schrute:</b> Rolf is my best friend. We met a shoe store. I heard him asking for a shoe that could increase his speed and not leave any tracks.]]></text>
+    </quote>
+    <quote id="578">
+        <season>5</season>
+        <episode>Company Picnic</episode>
+        <airdate>May 14, 2009</airdate>
+        <character>Michael Scott</character>
+        <text><![CDATA[<i>[trying to stall the volleyball game until Pam returns]</i><br/><b>Dwight Schrute:</b> How many people need to get hurt before we learn a valuable lesson? One? Two? Three? Four?<br/><b>David Wallace:</b> Dwight...<br/><b>Dwight Schrute:</b> No, no. Hear me out. Five? Six?<br/><b>David Wallace:</b> Dwight.<br/><b>Dwight Schrute:</b> Seven? Can I finish, please?<br/><b>David Wallace:</b> Okay.<br/><b>Dwight Schrute:</b> Eight?]]></text>
+    </quote>
+    <quote id="579">
+        <season>5</season>
+        <episode>Company Picnic</episode>
+        <airdate>May 14, 2009</airdate>
+        <character>Michael Scott</character>
+        <text><![CDATA[<b>Michael Scott:</b> Holly and I can never be just friends. I wrote down a list of bullet points why Holly and I should be together, and I'm going to find the perfect moment today and I'm going to tell her. Number one, "Holly, you and I are soup snakes." And the reason is because in terms of the soup, we like to... That doesn't make any sense. We're soul mates. Holly and I are soul mates.]]></text>
     </quote>
 </quotes>
