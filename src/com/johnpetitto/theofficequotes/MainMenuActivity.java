@@ -1,17 +1,17 @@
 package com.johnpetitto.theofficequotes;
 
-import java.io.IOException;
-import java.util.ArrayList;
-import java.util.Collections;
-
-import org.xmlpull.v1.XmlPullParserException;
-
-import android.os.Bundle;
-import android.app.Activity;
 import android.content.Intent;
+import android.os.Bundle;
+import android.support.v7.app.ActionBarActivity;
 import android.view.View;
 import android.widget.Spinner;
 import android.widget.Toast;
+
+import org.xmlpull.v1.XmlPullParserException;
+
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Collections;
 
 /*
  * MainMenuActivity.java is the main activity. It displays a spinner
@@ -21,7 +21,7 @@ import android.widget.Toast;
  * class via an intent.
  */
 
-public class MainMenuActivity extends Activity {
+public class MainMenuActivity extends ActionBarActivity {
 	public final static String CATEGORY = "CATEGORY";
 	private ArrayList<Quote> quotes;
 	private Toast toast;
