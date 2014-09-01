@@ -1,0 +1,48 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="#00A5D4" >
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/logo"
+        android:contentDescription="@string/app_name"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+    
+    <Spinner
+        android:id="@+id/selectCategory"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/viewQuotes"
+        android:entries="@array/categories"
+        android:prompt="@string/select_category"
+        android:drawSelectorOnTop="true" />
+    
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_above="@id/selectCategory"
+        android:layout_marginLeft="5dp"
+        android:textSize="24sp"
+        android:textColor="@android:color/white"
+        android:text="@string/select_category" />
+       
+     <Button 
+        android:id="@id/viewQuotes"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:singleLine="true"
+        android:textSize="16sp"
+        android:text="@string/view_quotes"
+        android:onClick="viewQuotes" />
+    
+</RelativeLayout>
+<!-- From: file:/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/res/layout/activity_main_menu.xml -->

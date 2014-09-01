@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/res" >
+            <file
+                name="favoriteicon"
+                path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/res/drawable/favoriteicon.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="infoicon"
+                path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/res/drawable/infoicon.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="shareicon"
+                path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/res/drawable/shareicon.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="favorite"
+                path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/res/drawable-hdpi/favorite.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="favorite_pressed"
+                path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/res/drawable-hdpi/favorite_pressed.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="info"
+                path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/res/drawable-hdpi/info.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="info_pressed"
+                path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/res/drawable-hdpi/info_pressed.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="logo"
+                path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/res/drawable-hdpi/logo.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="share"
+                path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/res/drawable-hdpi/share.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="share_pressed"
+                path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/res/drawable-hdpi/share_pressed.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="favorite"
+                path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/res/drawable-mdpi/favorite.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="favorite_pressed"
+                path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/res/drawable-mdpi/favorite_pressed.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="info"
+                path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/res/drawable-mdpi/info.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="info_pressed"
+                path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/res/drawable-mdpi/info_pressed.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="logo"
+                path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/res/drawable-mdpi/logo.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="share"
+                path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/res/drawable-mdpi/share.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="share_pressed"
+                path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/res/drawable-mdpi/share_pressed.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="favorite"
+                path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/res/drawable-xhdpi/favorite.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="favorite_pressed"
+                path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/res/drawable-xhdpi/favorite_pressed.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="info"
+                path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/res/drawable-xhdpi/info.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="info_pressed"
+                path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/res/drawable-xhdpi/info_pressed.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="logo"
+                path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/res/drawable-xhdpi/logo.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="share"
+                path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/res/drawable-xhdpi/share.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="share_pressed"
+                path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/res/drawable-xhdpi/share_pressed.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="logo"
+                path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/res/drawable-xxhdpi/logo.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_main_menu"
+                path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/res/layout/activity_main_menu.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_quotes"
+                path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/res/layout/activity_quotes.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_quote"
+                path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/res/layout/fragment_quote.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main_menu"
+                path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/res/menu/main_menu.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/res/values/strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="season" >Season: 
+                </string>
+
+                <string-array name="categories" >
+                    <item>
+All
+                    </item>
+                    <item>
+Favorites
+                    </item>
+                    <item>
+Michael Scott
+                    </item>
+                    <item>
+Dwight Schrute
+                    </item>
+                    <item>
+Jim Halpert
+                    </item>
+                    <item>
+Pam Beesly
+                    </item>
+                    <item>
+Andy Bernard
+                    </item>
+                    <item>
+Angela Martin
+                    </item>
+                    <item>
+Oscar Martinez
+                    </item>
+                    <item>
+Kevin Malone
+                    </item>
+                    <item>
+Stanley Hudson
+                    </item>
+                    <item>
+Meredith Palmer
+                    </item>
+                    <item>
+Ryan Howard
+                    </item>
+                    <item>
+Kelly Kapoor
+                    </item>
+                    <item>
+Phyllis Lapin
+                    </item>
+                    <item>
+Toby Flenderson
+                    </item>
+                    <item>
+Creed Bratton
+                    </item>
+                    <item>
+Darryl Philbin
+                    </item>
+                    <item>
+Todd Packer
+                    </item>
+                    <item>
+Season 1
+                    </item>
+                    <item>
+Season 2
+                    </item>
+                    <item>
+Season 3
+                    </item>
+                    <item>
+Season 4
+                    </item>
+                    <item>
+Season 5
+                    </item>
+                    <item>
+Season 6
+                    </item>
+                    <item>
+Season 7
+                    </item>
+                    <item>
+Season 8
+                    </item>
+                    <item>
+Season 9
+                    </item>
+                </string-array>
+
+                <string name="app_name" >The Office Quotes
+                </string>
+                <string name="share" >Share Quote
+                </string>
+                <string name="favorite" >Add to Favorites
+                </string>
+                <string name="info_return" >Return
+                </string>
+                <string name="episode" >Episode: 
+                </string>
+                <string name="view_quotes" >View Quotes
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="select_category" >Select Category
+                </string>
+                <string name="info" >View Quote Info
+                </string>
+            </file>
+            <file
+                path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/res/values-sw720dp-land/dimens.xml"
+                qualifiers="sw720dp-land-v13" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/res/values-v14/styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/build/generated/res/rs/debug" />
+        <source path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/build-types/debug/res" />
+    </dataSet>
+
+</merger>

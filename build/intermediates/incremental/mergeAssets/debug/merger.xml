@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/assets" >
+            <file
+                name="quotes.xml"
+                path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/assets/quotes.xml" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/jpetitt/Desktop/development/workspace/TheOfficeQuotes/build-types/debug/assets" />
+    </dataSet>
+
+</merger>
