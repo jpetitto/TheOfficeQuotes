@@ -856,16 +856,20 @@ containing a value of this type.
         public static final int favorite=0x7f020057;
         public static final int favorite_pressed=0x7f020058;
         public static final int favoriteicon=0x7f020059;
-        public static final int ic_launcher=0x7f02005a;
-        public static final int info=0x7f02005b;
-        public static final int info_pressed=0x7f02005c;
-        public static final int infoicon=0x7f02005d;
-        public static final int logo=0x7f02005e;
-        public static final int share=0x7f02005f;
-        public static final int share_pressed=0x7f020060;
-        public static final int shareicon=0x7f020061;
+        public static final int ic_action_about=0x7f02005a;
+        public static final int ic_action_favorite=0x7f02005b;
+        public static final int ic_action_share=0x7f02005c;
+        public static final int ic_launcher=0x7f02005d;
+        public static final int info=0x7f02005e;
+        public static final int info_pressed=0x7f02005f;
+        public static final int infoicon=0x7f020060;
+        public static final int logo=0x7f020061;
+        public static final int share=0x7f020062;
+        public static final int share_pressed=0x7f020063;
+        public static final int shareicon=0x7f020064;
     }
     public static final class id {
+        public static final int action_about=0x7f08004b;
         public static final int action_bar=0x7f08001a;
         public static final int action_bar_activity_content=0x7f080014;
         public static final int action_bar_container=0x7f080019;
@@ -874,12 +878,14 @@ containing a value of this type.
         public static final int action_bar_subtitle=0x7f080021;
         public static final int action_bar_title=0x7f080020;
         public static final int action_context_bar=0x7f08001b;
+        public static final int action_favorite=0x7f08004d;
         public static final int action_menu_divider=0x7f080015;
         public static final int action_menu_presenter=0x7f080016;
         public static final int action_mode_bar=0x7f08002f;
         public static final int action_mode_bar_stub=0x7f08002e;
         public static final int action_mode_close_button=0x7f080022;
-        public static final int action_settings=0x7f08004b;
+        public static final int action_settings=0x7f08004e;
+        public static final int action_share=0x7f08004c;
         public static final int activity_chooser_view_content=0x7f080023;
         public static final int always=0x7f08000f;
         public static final int beginning=0x7f08000a;
@@ -977,7 +983,8 @@ containing a value of this type.
         public static final int support_simple_spinner_dropdown_item=0x7f03001b;
     }
     public static final class menu {
-        public static final int main_menu=0x7f0d0000;
+        public static final int main_activity_actions=0x7f0d0000;
+        public static final int main_menu=0x7f0d0001;
     }
     public static final class string {
         public static final int abc_action_bar_home_description=0x7f0b0000;
@@ -993,17 +1000,20 @@ containing a value of this type.
         public static final int abc_searchview_description_voice=0x7f0b000a;
         public static final int abc_shareactionprovider_share_with=0x7f0b000b;
         public static final int abc_shareactionprovider_share_with_application=0x7f0b000c;
-        public static final int action_settings=0x7f0b000d;
-        public static final int app_name=0x7f0b000e;
-        public static final int episode=0x7f0b000f;
-        public static final int favorite=0x7f0b0010;
-        public static final int hello_world=0x7f0b0011;
-        public static final int info=0x7f0b0012;
-        public static final int info_return=0x7f0b0013;
-        public static final int season=0x7f0b0014;
-        public static final int select_category=0x7f0b0015;
-        public static final int share=0x7f0b0016;
-        public static final int view_quotes=0x7f0b0017;
+        public static final int action_about=0x7f0b000d;
+        public static final int action_favorite=0x7f0b000e;
+        public static final int action_settings=0x7f0b000f;
+        public static final int action_share=0x7f0b0010;
+        public static final int app_name=0x7f0b0011;
+        public static final int episode=0x7f0b0012;
+        public static final int favorite=0x7f0b0013;
+        public static final int hello_world=0x7f0b0014;
+        public static final int info=0x7f0b0015;
+        public static final int info_return=0x7f0b0016;
+        public static final int season=0x7f0b0017;
+        public static final int select_category=0x7f0b0018;
+        public static final int share=0x7f0b0019;
+        public static final int view_quotes=0x7f0b001a;
     }
     public static final class style {
         /** 

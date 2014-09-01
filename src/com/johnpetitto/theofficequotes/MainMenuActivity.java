@@ -1,8 +1,8 @@
 package com.johnpetitto.theofficequotes;
 
+import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.v7.app.ActionBarActivity;
 import android.view.View;
 import android.widget.Spinner;
 import android.widget.Toast;
@@ -21,7 +21,7 @@ import java.util.Collections;
  * class via an intent.
  */
 
-public class MainMenuActivity extends ActionBarActivity {
+public class MainMenuActivity extends Activity {
 	public final static String CATEGORY = "CATEGORY";
 	private ArrayList<Quote> quotes;
 	private Toast toast;
@@ -50,7 +50,6 @@ public class MainMenuActivity extends ActionBarActivity {
 		// if no quotes were returned, notify user, otherwise send quotes to QuotesActivity class
 		if (quotes.size() == 0) {
 			toast = Toast.makeText(getApplicationContext(), "No quotes found", Toast.LENGTH_SHORT);
-			toast.cancel(); // hide previous toast if necessary
 			toast.show();
 		} else {
 			Intent intent = new Intent(this, QuotesActivity.class);

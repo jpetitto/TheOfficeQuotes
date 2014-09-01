@@ -1,22 +1,25 @@
 package com.johnpetitto.theofficequotes;
 
-import java.io.IOException;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Vector;
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentStatePagerAdapter;
 import android.support.v4.view.PagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.support.v4.view.ViewPager.SimpleOnPageChangeListener;
+import android.support.v7.app.ActionBarActivity;
+import android.view.Menu;
+import android.view.MenuInflater;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Vector;
 
 /*
  * QuotesActivity.java is responsible for displaying the quotes sent
@@ -27,7 +30,7 @@ import android.widget.Toast;
  * index of each quote is also displayed by the class.
  */
 
-public class QuotesActivity extends FragmentActivity {
+public class QuotesActivity extends ActionBarActivity {
 	private ViewPager mPager;
 	private PagerAdapter mPagerAdapter;
 	private List<Fragment> quoteFragments;
@@ -63,6 +66,31 @@ public class QuotesActivity extends FragmentActivity {
 		super.onSaveInstanceState(savedInstanceState);
 		savedInstanceState.putParcelableArrayList("quotes", quotes);
 	}
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        MenuInflater inflater = getMenuInflater();
+        inflater.inflate(R.menu.main_activity_actions, menu);
+        return super.onCreateOptionsMenu(menu);
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        // handle presses on the action bar items
+        switch (item.getItemId()) {
+            case R.id.action_about:
+                viewInfo(null);
+                return true;
+            case R.id.action_share:
+                shareQuote(null);
+                return true;
+            case R.id.action_favorite:
+                addFavorite(null);
+                return true;
+            default:
+                return super.onOptionsItemSelected(item);
+        }
+    }
 	
 	// constructs each QuoteFragment to be added to the ViewPager
 	private void initFragments() {
@@ -107,16 +135,20 @@ public class QuotesActivity extends FragmentActivity {
 	}
 	
 	// adds current quote to a list of favorites (carried out by ParseXmlQuotes class)
-	public void addFavorite(View view) throws IOException {
+	public void addFavorite(View view) {
 		String added = "Added to Favorites";
 		String removed = "Removed from Favorites";
-		
-		if (ParseXmlQuotes.addToFavorites(getCurrentQuote().getId(), getApplicationContext()))
-			toast = Toast.makeText(getApplicationContext(), added, Toast.LENGTH_SHORT);
-		else
-			toast = Toast.makeText(getApplicationContext(), removed, Toast.LENGTH_SHORT);
-		
-		toast.cancel(); // hide previous toast if necessary
+        String error = "Error: could not add/remove to Favorites";
+
+        try {
+            if (ParseXmlQuotes.addToFavorites(getCurrentQuote().getId(), getApplicationContext()))
+                toast = Toast.makeText(getApplicationContext(), added, Toast.LENGTH_SHORT);
+            else
+                toast = Toast.makeText(getApplicationContext(), removed, Toast.LENGTH_SHORT);
+        } catch (IOException ex) {
+            toast = Toast.makeText(getApplicationContext(), error, Toast.LENGTH_SHORT);
+        }
+
 		toast.show();
 	}
 	
