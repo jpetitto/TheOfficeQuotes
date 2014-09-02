@@ -1,17 +1,18 @@
 package com.johnpetitto.theofficequotes;
 
+import android.content.Context;
+import android.util.Xml;
+
+import org.xmlpull.v1.XmlPullParser;
+import org.xmlpull.v1.XmlPullParserException;
+
 import java.io.BufferedReader;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
-
-import org.xmlpull.v1.XmlPullParser;
-import org.xmlpull.v1.XmlPullParserException;
-
-import android.content.Context;
-import android.util.Xml;
+import java.util.HashSet;
 
 /*
  * ParseXmlQuotes.java is a utility class used to carry out work
@@ -48,11 +49,11 @@ public class ParseXmlQuotes {
 		String airdate = null;
 		String quote = null;
 		String id = null;
+        boolean isFavorite = false;
 		
 		// flags for signaling a specific type of category
 		boolean matchesCharacter = false;
 		boolean matchesSeason = false;
-		boolean matchesFavorite = false;
 		boolean parseAllQuotes = false;
 		
 		// check if parseAllQuotes flag should be set
@@ -64,11 +65,7 @@ public class ParseXmlQuotes {
 			category = category.substring("Season".length() + 1);
 		
 		// gather list of favorites if necessary
-		ArrayList<String> favoriteIds;
-		if (category.equals("Favorites"))
-			favoriteIds = getFavoriteIds(context);
-		else
-			favoriteIds = new ArrayList<String>();
+		HashSet<String> favoriteIds = getFavoriteIds(context);
 		
 		// start parsing the XML document
 		int eventType = parser.getEventType();
@@ -78,7 +75,7 @@ public class ParseXmlQuotes {
 				if (parser.getName().equals("quote")) {
 					id = parser.getAttributeValue(0); // grab ID attribute
 					if (favoriteIds.contains(id))
-						matchesFavorite = true;
+                        isFavorite = true;
 				}
 				else if (parser.getName().equals("character")) {
 					if (parser.nextText().equals(category))
@@ -103,13 +100,13 @@ public class ParseXmlQuotes {
 				// finished parsing a quote
 				if (parser.getName().equals("quote")) {
 					// at least one flag needs to be set in order to be added
-					if (matchesCharacter || matchesSeason || matchesFavorite || parseAllQuotes)
-						quotes.add(new Quote(quote, episode, season, airdate, id));
+					if (matchesCharacter || matchesSeason || (isFavorite && category.equals("Favorites")) || parseAllQuotes)
+						quotes.add(new Quote(quote, episode, season, airdate, id, isFavorite));
 					
 					// reset flags (except parseAllQuotes) for further parsing
 					matchesCharacter = false;
 					matchesSeason = false;
-					matchesFavorite = false;
+					isFavorite = false;
 				}
 			}
 			
@@ -118,7 +115,8 @@ public class ParseXmlQuotes {
 		
 		reader.close(); // finished parsing XML document
 	}
-	
+
+    /*
 	// writes (or removes) ID of quote to a file for future use in parsing
 	// note: method is protected (default) since it is both static and returns a value
 	static boolean addToFavorites(String id, Context context) throws IOException {
@@ -155,11 +153,34 @@ public class ParseXmlQuotes {
 		
 		return origSize < favoriteIds.size(); // determines if ID was added (true) or removed
 	}
+	*/
+
+    // writes (or removes) ID of quote to a file for future use in parsing
+    protected static void updateFavorites(Quote quote, Context context) throws IOException {
+        // call helper method to gather set of existing favorite quote IDs
+        HashSet<String> favoriteIds = getFavoriteIds(context);
+        FileOutputStream fos = context.openFileOutput(FAVORITES, Context.MODE_PRIVATE);
+
+        // add or remove quote ID from favorites
+        if (quote.isFavorite()) {
+            favoriteIds.add(quote.getId());
+        } else {
+            favoriteIds.remove(quote.getId());
+        }
+
+        // rewrite to file with newly added/removed ID
+        for (String favorite : favoriteIds) {
+            fos.write(favorite.getBytes());
+            fos.write(NEW_LINE);
+        }
+
+        fos.close();
+    }
 	
 	// helper method used by both public methods of the class in order to read favorite IDs from file
-	private static ArrayList<String> getFavoriteIds(Context context) {
+	private static HashSet<String> getFavoriteIds(Context context) {
 		try {
-			ArrayList<String> favoriteIds = new ArrayList<String>();
+			HashSet<String> favoriteIds = new HashSet<String>();
 			FileInputStream fis = context.openFileInput(FAVORITES);
 			BufferedReader reader = new BufferedReader(new InputStreamReader(fis));
 			
@@ -174,7 +195,7 @@ public class ParseXmlQuotes {
 			
 			return favoriteIds;
 		} catch (IOException e) {
-			return new ArrayList<String>();
+			return new HashSet<String>();
 		}
 	}
 }

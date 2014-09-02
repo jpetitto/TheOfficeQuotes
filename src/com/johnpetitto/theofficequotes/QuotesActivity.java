@@ -152,19 +152,25 @@ public class QuotesActivity extends ActionBarActivity {
 	
 	// adds current quote to a list of favorites (carried out by ParseXmlQuotes class)
 	public void addFavorite(View view) {
-		String added = "Added to Favorites";
-		String removed = "Removed from Favorites";
-        String error = "Error: could not add/remove to Favorites";
+        String toastText;
 
-        try {
-            if (ParseXmlQuotes.addToFavorites(getCurrentQuote().getId(), getApplicationContext()))
-                toast = Toast.makeText(getApplicationContext(), added, Toast.LENGTH_SHORT);
-            else
-                toast = Toast.makeText(getApplicationContext(), removed, Toast.LENGTH_SHORT);
-        } catch (IOException ex) {
-            toast = Toast.makeText(getApplicationContext(), error, Toast.LENGTH_SHORT);
+        if (getCurrentQuote().isFavorite()) {
+            // remove quote from favorites
+            getCurrentQuote().setFavorite(false);
+            toastText = "Removed from Favorites";
+        } else {
+            // add quote to favorites
+            getCurrentQuote().setFavorite(true);
+            toastText = "Added to Favorites";
         }
 
+        try {
+            ParseXmlQuotes.updateFavorites(getCurrentQuote(), getApplicationContext());
+        } catch (IOException ex) {
+            toastText = "Error: could not add/remove to Favorites";
+        }
+
+        toast = Toast.makeText(getApplicationContext(), toastText, Toast.LENGTH_SHORT);
 		toast.show();
 	}
 	

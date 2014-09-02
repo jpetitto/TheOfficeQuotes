@@ -17,18 +17,20 @@ import android.text.Spanned;
  */
 
 public class Quote implements Parcelable {
-	private String quote;
-	private String episode;
-	private String season;
-	private String airdate;
-	private String id;
+	private final String quote;
+	private final String episode;
+	private final String season;
+	private final String airdate;
+	private final String id;
+    private boolean isFavorite;
 	
-	public Quote(String quote, String episode, String season, String airdate, String id) {
+	public Quote(String quote, String episode, String season, String airdate, String id, boolean isFavorite) {
 		this.quote = quote;
 		this.episode = episode;
 		this.season = season;
 		this.airdate = airdate;
 		this.id = id;
+        this.isFavorite = isFavorite;
 	}
 	
 	public Quote(Parcel in) {
@@ -37,6 +39,7 @@ public class Quote implements Parcelable {
 		season = in.readString();
 		airdate = in.readString();
 		id = in.readString();
+        isFavorite = Boolean.parseBoolean(in.readString());
 	}
 	
 	public int describeContents() {
@@ -49,6 +52,7 @@ public class Quote implements Parcelable {
 		dest.writeString(season);
 		dest.writeString(airdate);
 		dest.writeString(id);
+        dest.writeString(Boolean.toString(isFavorite));
 	}
 	
 	public static final Parcelable.Creator<Quote> CREATOR = new Parcelable.Creator<Quote>() {
@@ -80,6 +84,10 @@ public class Quote implements Parcelable {
 	public String getId() {
 		return id;
 	}
+
+    public boolean isFavorite() { return isFavorite; }
+
+    public void setFavorite(boolean isFavorite) { this.isFavorite = isFavorite; }
 	
 	public Spanned getFormattedQuote() {
 		return Html.fromHtml(quote);

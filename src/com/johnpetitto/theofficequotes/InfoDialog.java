@@ -21,7 +21,7 @@ public class InfoDialog extends DialogFragment {
 		message += "\nEpisode: " + getArguments().getString("episode");
 		message += "\nAirdate: " + getArguments().getString("airdate");
 		
-		builder.setTitle("Additional Info");
+		builder.setTitle(R.string.action_about);
 		builder.setMessage(message);
 		builder.setPositiveButton(R.string.info_return, new DialogInterface.OnClickListener() {
 			public void onClick(DialogInterface dialog, int id) {
