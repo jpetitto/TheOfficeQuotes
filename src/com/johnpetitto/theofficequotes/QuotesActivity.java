@@ -5,10 +5,12 @@ import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentStatePagerAdapter;
+import android.support.v4.view.MenuItemCompat;
 import android.support.v4.view.PagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.support.v4.view.ViewPager.SimpleOnPageChangeListener;
 import android.support.v7.app.ActionBarActivity;
+import android.support.v7.widget.ShareActionProvider;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
@@ -37,6 +39,7 @@ public class QuotesActivity extends ActionBarActivity {
 	private TextView quoteIndex;
 	private ArrayList<Quote> quotes;
 	private Toast toast;
+    private ShareActionProvider mShareActionProvider;
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -71,7 +74,21 @@ public class QuotesActivity extends ActionBarActivity {
     public boolean onCreateOptionsMenu(Menu menu) {
         MenuInflater inflater = getMenuInflater();
         inflater.inflate(R.menu.main_activity_actions, menu);
+
+        // modify share action item to use default share intent
+        MenuItem shareItem = menu.findItem(R.id.action_share);
+        mShareActionProvider = (ShareActionProvider) MenuItemCompat.getActionProvider(shareItem);
+        mShareActionProvider.setShareIntent(getShareIntent());
+
         return super.onCreateOptionsMenu(menu);
+    }
+
+    private Intent getShareIntent() {
+        Intent intent = new Intent(Intent.ACTION_SEND);
+        intent.setType("text/plain");
+        String shareText = getCurrentQuote().getFormattedQuote().toString();
+        intent.putExtra(Intent.EXTRA_TEXT, shareText);
+        return intent;
     }
 
     @Override
@@ -80,9 +97,6 @@ public class QuotesActivity extends ActionBarActivity {
         switch (item.getItemId()) {
             case R.id.action_about:
                 viewInfo(null);
-                return true;
-            case R.id.action_share:
-                shareQuote(null);
                 return true;
             case R.id.action_favorite:
                 addFavorite(null);
@@ -131,6 +145,8 @@ public class QuotesActivity extends ActionBarActivity {
 		public void onPageSelected(int position) {
 			// update quote index display
 			quoteIndex.setText((position + 1) + "/" + quoteFragments.size());
+            // update the text to be shared
+            mShareActionProvider.setShareIntent(getShareIntent());
 		}
 	}
 	

@@ -869,7 +869,7 @@ containing a value of this type.
         public static final int shareicon=0x7f020064;
     }
     public static final class id {
-        public static final int action_about=0x7f08004b;
+        public static final int action_about=0x7f08004d;
         public static final int action_bar=0x7f08001a;
         public static final int action_bar_activity_content=0x7f080014;
         public static final int action_bar_container=0x7f080019;
@@ -878,14 +878,14 @@ containing a value of this type.
         public static final int action_bar_subtitle=0x7f080021;
         public static final int action_bar_title=0x7f080020;
         public static final int action_context_bar=0x7f08001b;
-        public static final int action_favorite=0x7f08004d;
+        public static final int action_favorite=0x7f08004c;
         public static final int action_menu_divider=0x7f080015;
         public static final int action_menu_presenter=0x7f080016;
         public static final int action_mode_bar=0x7f08002f;
         public static final int action_mode_bar_stub=0x7f08002e;
         public static final int action_mode_close_button=0x7f080022;
         public static final int action_settings=0x7f08004e;
-        public static final int action_share=0x7f08004c;
+        public static final int action_share=0x7f08004b;
         public static final int activity_chooser_view_content=0x7f080023;
         public static final int always=0x7f08000f;
         public static final int beginning=0x7f08000a;

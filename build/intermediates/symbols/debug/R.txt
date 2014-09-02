@@ -240,7 +240,7 @@ int drawable logo 0x7f020061
 int drawable share 0x7f020062
 int drawable share_pressed 0x7f020063
 int drawable shareicon 0x7f020064
-int id action_about 0x7f08004b
+int id action_about 0x7f08004d
 int id action_bar 0x7f08001a
 int id action_bar_activity_content 0x7f080014
 int id action_bar_container 0x7f080019
@@ -249,14 +249,14 @@ int id action_bar_root 0x7f080018
 int id action_bar_subtitle 0x7f080021
 int id action_bar_title 0x7f080020
 int id action_context_bar 0x7f08001b
-int id action_favorite 0x7f08004d
+int id action_favorite 0x7f08004c
 int id action_menu_divider 0x7f080015
 int id action_menu_presenter 0x7f080016
 int id action_mode_bar 0x7f08002f
 int id action_mode_bar_stub 0x7f08002e
 int id action_mode_close_button 0x7f080022
 int id action_settings 0x7f08004e
-int id action_share 0x7f08004c
+int id action_share 0x7f08004b
 int id activity_chooser_view_content 0x7f080023
 int id always 0x7f08000f
 int id beginning 0x7f08000a

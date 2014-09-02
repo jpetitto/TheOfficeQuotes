@@ -4587,13 +4587,13 @@ Season 9
                 </string>
                 <string name="action_about" >About
                 </string>
-                <string name="episode" >Episode: 
-                </string>
                 <string name="info_return" >Return
                 </string>
-                <string name="hello_world" >Hello world!
+                <string name="episode" >Episode: 
                 </string>
                 <string name="view_quotes" >View Quotes
+                </string>
+                <string name="hello_world" >Hello world!
                 </string>
                 <string name="select_category" >Select Category
                 </string>

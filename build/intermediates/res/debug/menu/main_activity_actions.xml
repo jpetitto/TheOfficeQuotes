@@ -2,21 +2,21 @@
       xmlns:TheOfficeQuotes="http://schemas.android.com/apk/res-auto">
 
     <item
-        android:id="@+id/action_about"
-        android:icon="@drawable/ic_action_about"
-        android:title="@string/action_about"
-        TheOfficeQuotes:showAsAction="ifRoom" />
-
-    <item
         android:id="@+id/action_share"
-        android:icon="@drawable/ic_action_share"
         android:title="@string/action_share"
-        TheOfficeQuotes:showAsAction="ifRoom" />
+        TheOfficeQuotes:showAsAction="ifRoom"
+        TheOfficeQuotes:actionProviderClass="android.support.v7.widget.ShareActionProvider" />
 
     <item
         android:id="@+id/action_favorite"
         android:icon="@drawable/ic_action_favorite"
         android:title="@string/action_favorite"
+        TheOfficeQuotes:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_about"
+        android:icon="@drawable/ic_action_about"
+        android:title="@string/action_about"
         TheOfficeQuotes:showAsAction="ifRoom" />
 
 </menu>
