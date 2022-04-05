@@ -1360,7 +1360,7 @@
         <airdate>September 21, 2006</airdate>
         <character>Michael Scott</character>
         <character>Jan Levinson</character>
-        <text><![CDATA[<b>Michael Scott:</b> <i>[after getting in trouble for harassing Oscar for being gay]</i> Look, I watch "The L Word," okay?<br/><b>Jan Levinson:</b> Good. Good.<br/><b>Michael Scott:</b> I watch "Queer as..." </i>[bleep] so...<br/><b>Jan Levinson:</b> That's not what it's called.]]></text>
+        <text><![CDATA[<b>Michael Scott:</b> <i>[after getting in trouble for harassing Oscar for being gay]</i> Look, I watch "The L Word," okay?<br/><b>Jan Levinson:</b> Good. Good.<br/><b>Michael Scott:</b> I watch "Queer as..." <i>[bleep]</i> so...<br/><b>Jan Levinson:</b> That's not what it's called.]]></text>
     </quote>
     <quote id="187">
         <season>3</season>
@@ -3550,7 +3550,7 @@
         <airdate>November 6, 2008</airdate>
         <character>Michael Scott</character>
         <character>Jim Halpert</character>
-        <text><![CDATA[<b>Michael Scott:</b> <i>[reading the customer survey]</i> "Jim Halpert is smudge and arrogant."</br><b>Jim Halpert:</b> I think he means smug.<br/><b>Michael Scott:</b> Arrogance.<br/<b>Jim Halpert:</b> Michael, I'm just trying to...<br/><b>Michael Scott:</b> <i>[interrupting]</i> And there's our smudgeness.]]></text>
+        <text><![CDATA[<b>Michael Scott:</b> <i>[reading the customer survey]</i> "Jim Halpert is smudge and arrogant."</br><b>Jim Halpert:</b> I think he means smug.<br/><b>Michael Scott:</b> Arrogance.<br/><b>Jim Halpert:</b> Michael, I'm just trying to...<br/><b>Michael Scott:</b> <i>[interrupting]</i> And there's our smudgeness.]]></text>
     </quote>
     <quote id="478">
         <season>5</season>
@@ -3781,7 +3781,7 @@
         <episode>Stress Relief</episode>
         <airdate>February 1, 2009</airdate>
         <character>Michael Scott</character>
-        <text><![CDATA[<i>[after Michael believes Stanley's bio-feedback machine isn't working right because it beeps anytime he's near]<i><br/><b>Michael Scott:</b> Oscar, would you reach over and touch his thing? That's what he said. Right, guys? Because of gay.]]></text>
+        <text><![CDATA[<i>[after Michael believes Stanley's bio-feedback machine isn't working right because it beeps anytime he's near]</i><br/><b>Michael Scott:</b> Oscar, would you reach over and touch his thing? That's what he said. Right, guys? Because of gay.]]></text>
     </quote>
     <quote id="509">
         <season>5</season>
@@ -4636,7 +4636,7 @@
         <airdate>February 17, 2011</airdate>
         <character>Jim Halpert</character>
         <character>Michael Scott</character>
-        <text><![CDATA[<b>Goldenface (Jim): Sorry about your friend, Scarn.<br/><b>Michael Scarn:</b> The joke's on you, Goldenface. That man was a wanted animal rapist.]]></text>
+	<text><![CDATA[<b>Goldenface (Jim):</b> Sorry about your friend, Scarn.<br/><b>Michael Scarn:</b> The joke's on you, Goldenface. That man was a wanted animal rapist.]]></text>
     </quote>
     <quote id="625">
         <season>7</season>
